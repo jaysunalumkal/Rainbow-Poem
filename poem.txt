@@ -7,3 +7,5 @@ Green
 Yellow
 Orange
 Red
+
+Conclusion: Thus we say rainbow is a VIBGYOR!
